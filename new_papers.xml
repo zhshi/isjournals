@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Michael ZS</name>
+  </author>
+  <id>http://info.econst.org</id>
+  <title>Newly Accepted Papers</title>
+  <updated>2013-04-21T16:03:35-05:00</updated>
+  <entry>
+    <id>http://or.journal.informs.org/content/early/recent</id>
+    <link href="http://or.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The robust capacitated vehicle routing problem (CVRP) under demand uncertainty is studied to address the minimum cost delivery of a product to geographically dispersed customers using capacity-constrained vehicles. Contrary to the deterministic CVRP, which postulates that the customer demands for the product are deterministic and known, the robust CVRP models the customer demands as random variables, and it determines a minimum cost delivery plan that is feasible for all anticipated demand realizations. Robust optimization counterparts of several deterministic CVRP formulations are derived and compared numerically. Robust rounded capacity inequalities are developed, and it is shown how they can be separated efficiently for two broad classes of demand supports. Finally, it is analyzed how the robust CVRP relates to the chance-constrained CVRP, which allows a controlled degree of supply shortfall to decrease delivery costs.]]</summary>
+    <title>The Robust Capacitated Vehicle Routing Problem Under Demand Uncertainty</title>
+    <updated>2013-04-21T14:49:13-05:00</updated>
+    <dc:date>2013-04-21T14:49:13-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://or.journal.informs.org/content/early/recent</id>
+    <link href="http://or.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper considers abstract election games motivated by the United States Electoral College. There are two political parties, and the electoral votes in each state go to the party that spends the most money there, with an adjustment for a “head start” that one party or the other may have in that state. The states have unequal numbers of electoral votes, and elections are decided by majority rules. Each party has a known budget, and much depends on the information that informs how that budget is spent. Three situations are considered: (1) one party's spending plan is known to the other, (2) spending is gradually revealed as the parties spend continuously in time, and (3) neither side knows anything about the other's spending. The last situation resembles a Blotto game, hence the title.]]</summary>
+    <title>OR Forum—Blotto Politics</title>
+    <updated>2013-04-21T14:49:13-05:00</updated>
+    <dc:date>2013-04-21T14:49:13-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://or.journal.informs.org/content/early/recent</id>
+    <link href="http://or.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper presents a patrol problem, where a patroller traverses a graph through edges to detect potential attacks at nodes. To design a patrol policy, the patroller needs to take into account not only the graph structure, but also the different attack time distributions, as well as different costs incurred due to successful attacks, at different nodes. We consider both random attackers and strategic attackers. A random attacker chooses which node to attack according to a probability distribution known to the patroller. A strategic attacker plays a two-person zero-sum game with the patroller. For each case, we give an exact linear program to compute the optimal solution. Because the linear programs quickly become computationally intractable as the problem size grows, we develop index-based heuristics. In the random-attacker case, our heuristic is optimal when there are two nodes, and in a suitably chosen asymptotic regime. In the strategic-attacker case, our heuristic is optimal when ]]</summary>
+    <title>A Graph Patrol Problem with Random Attack Times</title>
+    <updated>2013-04-21T14:49:07-05:00</updated>
+    <dc:date>2013-04-21T14:49:07-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[A widely debated question in recent years by both strategy theorists and antitrust practitioners is what role product differentiation between firms plays in their ability to sustain a collusive agreement in order to reduce the strength of competition and gain higher profits. This paper addresses the following question: What happens to the “product differentiation–collusion sustainability” relationship when setting up and maintaining an agreement is costly? We show that introducing collusion costs into the discussion has relevant implications. Indeed, sufficiently high collusion costs modify the underlying market structure, thus altering the product differentiation–collusion sustainability relationship with respect to the case where collusion costs are absent or low. In particular, if the gains from collusion are increasing (decreasing) with the degree of product differentiation, the relationship between product differentiation and collusion sustainability is always positive (negative),]]</summary>
+    <title>Product Differentiation and Collusion Sustainability When Collusion Is Costly</title>
+    <updated>2013-04-21T14:49:05-05:00</updated>
+    <dc:date>2013-04-21T14:49:05-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Physicians may learn about prescription drug effectiveness directly from the firm via detailing or from patient experience. Patient-mediated learning is aided by the use of free drug samples. The effective use of samples is hampered by a lack of understanding of its exact return on investment implications. We seek to fill this gap by incorporating the physician's sample allocation behavior in the firm's decision making. We uncover the following implications for firms as well as policy makers. First, we find that the optimal sampling level for a drug category is a nonmonotonic function of patient payment ability and the price of the drug. Second, an increase in the cost of samples can lead to an increase in sampling and a decrease in detailing when the physician's propensity to provide sample subsidies is high. Third, when future market growth is expected to be high (early stage product life cycle and/or chronic drugs) and sampling efficiency is low, the use of sampling is profitable fo]]</summary>
+    <title>Offering Pharmaceutical Samples: The Role of Physician Learning and Patient Payment Ability</title>
+    <updated>2013-04-21T14:49:05-05:00</updated>
+    <dc:date>2013-04-21T14:49:05-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We examine multilateral bargaining in vertical supply relationships that involve an upstream manufacturer who sells through two competing retailers. In these relationships the negotiations are interdependent, and bargaining externality may arise across the retailers. In addition, the timing by which the manufacturer negotiates with the retailers becomes important. In simultaneous bargaining the retailers negotiate without knowing if an agreement has been reached in the other retail channel, whereas in sequential bargaining the retailer in the second negotiation is able to observe whether an agreement was reached in the first negotiation. We show that simultaneous bargaining is optimal for the manufacturer when the retail prices (and profitability) are similar, and sequential bargaining is preferred when the dispersion in the retail prices is sufficiently large. As a result of ex post renegotiations, the manufacturer may strategically stock out the less profitable retailer who charged a]]</summary>
+    <title>Multilateral Bargaining and Downstream Competition</title>
+    <updated>2013-04-21T14:49:04-05:00</updated>
+    <dc:date>2013-04-21T14:49:04-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We focus on destination categories, so named because they have the greatest impact on where households choose to shop and, more generally, on how category positioning affects which store a household chooses. We propose a reduced-form model-based analytical approach to identify categories that fill the destination role. Our approach determines which categories are most important to shoppers' store choice decisions and helps determine in which categories the retailer provides superior value. In addition, our approach allows us to understand the impact of the retailer's long-run merchandising policy decisions on the value it provides. Previous store choice research considered the effects of pricing, assortment and other merchandising decisions at the store level but did not focus on the effect of specific categories on store choice. This focus leads us to formulate a model that can (1) measure and explain the differential impact that specific categories have on shoppers' store choice deci]]</summary>
+    <title>Category Positioning and Store Choice: The Role of Destination Categories</title>
+    <updated>2013-04-21T14:49:04-05:00</updated>
+    <dc:date>2013-04-21T14:49:04-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Laboratory and field experiments show that when choosing among a set of objects, consumers could be subjected to context-dependent preferences and evaluate options by considering both the absolute utilities and their relative standing in the choice set. Using this premise we construct a game-theoretic model of competition between two firms and investigate how a firm's decision to differentiate or imitate is affected when consumers' preferences are context-dependent. We consider two horizontally differentiated firms where some consumers own the product of one firm and the rest own the other firm's product. One firm upgrades its existing product by adding a new feature. In the absence of any cost or capability constraints, to protect its competitive position, the other firm would prefer to upgrade its product by adding a differentiated new feature. We show that if consumers' preferences are context-dependent and the new feature is of an incremental type, the second mover prefers to imita]]</summary>
+    <title>Differentiate or Imitate? The Role of Context-Dependent Preferences</title>
+    <updated>2013-04-21T14:49:03-05:00</updated>
+    <dc:date>2013-04-21T14:49:03-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The predominant perception on commonality strategy in product line design is that it entails a trade-off decision for a firm between cost savings and product differentiation. Adopting the commonality strategy may lower a firm's manufacturing costs, but it blurs the distinction between products targeting different consumer segments and makes consumer switching between products more likely such that cannibalization is always intensified. We show that this view in the literature is based on a crucial assumption that the quality valuation of one consumer segment is greater than that of another segment for all product attributes; i.e., one segment's preference structure dominates the other segment's preference structure. In this paper we consider the case of a nondominating preference structure where each segment has an attribute it values more than the other segment does. Interestingly, we show that the effect of commonality strategy is more diverse in this nondominating preference structu]]</summary>
+    <title>Can Commonality Relieve Cannibalization in Product Line Design?</title>
+    <updated>2013-04-21T14:49:03-05:00</updated>
+    <dc:date>2013-04-21T14:49:03-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[I consider a cheap-talk model in which a firm has a chance to communicate its product quality to consumers. The model describes how advertising can be both informative to consumers and profitable for the firm through its content in a vertically differentiated market. I find that advertising content may be effective in inducing search even if incentives for misrepresentation exist. In particular, a firm with an undesirable (low-quality) product is able to attract consumers who would have not incurred a search cost had they known its true quality. In this case, a semiseparating equilibrium occurs where the lowest firm types pool upward in order to increase the expected product quality while simultaneously signaling that the product is affordable. Although consumers always benefit from truth in advertising, total welfare may decrease if an undesirable firm is required to reveal its type. Finally, I show that the extent to which misrepresentation can take place increases with the cost of a]]</summary>
+    <title>Cheap-Talk Advertising and Misrepresentation in Vertically Differentiated Markets</title>
+    <updated>2013-04-21T14:49:02-05:00</updated>
+    <dc:date>2013-04-21T14:49:02-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We empirically study the motivations of users to contribute content to social media in the context of the popular microblogging site Twitter. We focus on noncommercial users who do not benefit financially from their contributions. Previous literature suggests that there are two main types of utility that motivate these users to post content: intrinsic utility and image-related utility. We leverage the fact that these two types of utility give rise to different predictions as to whether users should increase their contributions when their number of followers increases. To address the issue that the number of followers is endogenous, we conducted a field experiment in which we exogenously added followers (or follow requests, in the case of protected accounts) to a set of users over a period of time and compared their posting activities to those of a control group. We estimated each treated user's utility function using a dynamic discrete choice model. Although our results are consistent ]]</summary>
+    <title>Intrinsic vs. Image-Related Utility in Social Media: Why Do People Contribute Content to Twitter?</title>
+    <updated>2013-04-21T14:49:01-05:00</updated>
+    <dc:date>2013-04-21T14:49:01-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The market structure of platform competition is critically important to managers and policy makers. Network effects in these markets predict concentrated industry structures, whereas competitive effects and differentiation suggest the opposite. Standard theory offers little guidance—full rationality models have multiple equilibria with wildly varying market concentration. We relax full rationality in favor of a boundedly rational cognitive hierarchy model. Even small departures from full rationality allow sharp predictions—there is a unique equilibrium in every case. When participants single-home and platforms are vertically differentiated, a single dominant platform emerges. Multihoming can give rise to a strong–weak market structure: one platform is accessed by all, and the other is used as a backup by some agents. Horizontal differentiation, in contrast, leads to fragmentation. Differentiation, rather than competitive effects, mainly determines market structure.]]</summary>
+    <title>When Do Markets Tip? A Cognitive Hierarchy Approach</title>
+    <updated>2013-04-21T14:49:01-05:00</updated>
+    <dc:date>2013-04-21T14:49:01-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The canonical design of customer satisfaction surveys asks for global satisfaction with a product or service and for evaluations of its distinct attributes. Users of these surveys are often interested in the relationship between global satisfaction and attributes; regression analysis is commonly used to measure the conditional associations. Regression analysis is only appropriate when the global satisfaction measure results from the attribute evaluations and is not appropriate when the covariance of the items lie in a low-dimensional subspace, such as in a factor model. Potential reasons for low-dimensional responses are that responses may be haloed from overall satisfaction and there may be an unintended lack of item specificity. In this paper we develop a Bayesian mixture model that facilitates the empirical distinction between regression models and relatively much lower-dimensional factor models. The model uses the dimensionality of the covariance among items in a survey as the prim]]</summary>
+    <title>The Dimensionality of Customer Satisfaction Survey Responses and Implications for Driver Analysis</title>
+    <updated>2013-04-21T14:49:00-05:00</updated>
+    <dc:date>2013-04-21T14:49:00-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This study examines the strategic implications of retailer shelf layout decisions in a market characterized by consumer fit uncertainty. A retailer can display competing products in the same location, allowing consumers to inspect various products all at once or in distant locations, which induces consumers to inspect one product first and then decide whether to incur the travel cost to inspect another product. We consider a model in which two competing manufacturers distribute two horizontally differentiated products through a common retailer. Our analysis shows when the two manufacturers offer products of the same fit probabilities, the retailer obtains a greater profit by displaying competing products in distant locations if the products' fit probabilities are not too high; otherwise, the retailer is better off displaying competing products in the same location. When manufacturers offer products of differentiated fit probabilities, a retailer is more likely to benefit from displayin]]</summary>
+    <title>Consumer Fit Search, Retailer Shelf Layout, and Channel Interaction</title>
+    <updated>2013-04-21T14:49:00-05:00</updated>
+    <dc:date>2013-04-21T14:49:00-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[When defection is unobserved, latent attrition models provide useful insights about customer behavior and accurate forecasts of customer value. Yet extant models ignore direct marketing efforts. Response models incorporate the effects of direct marketing, but because they ignore latent attrition, they may lead firms to waste resources on inactive customers.]]</summary>
+    <title>Incorporating Direct Marketing Activity into Latent Attrition Models</title>
+    <updated>2013-04-21T14:48:59-05:00</updated>
+    <dc:date>2013-04-21T14:48:59-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mktsci.journal.informs.org/content/early/recent</id>
+    <link href="http://mktsci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Asymmetric complements refer to goods where one good is more dependent on the other, yet consumers receive enhanced utility from consuming both. Examples include garden hoses and sprinklers, chips and dip, and routine versus personalized services where the former has a broader base for utility generation and the latter is more dependent on the other's presence. Measuring asymmetric effects is difficult when all that is observed are the purchase quantities present in a consumer's market basket. We propose a direct utility model with a latent decision sequence for measuring asymmetric effects that allows us to capture differential responses to cross-category purchases and inventories. Scanner panel data of milk and cereal purchases are used to investigate the presence of asymmetric complementarity, and implications are explored through counterfactual analyses involving cross-price elasticities and spillover effects of merchandising variables.]]</summary>
+    <title>A Direct Utility Model for Asymmetric Complements</title>
+    <updated>2013-04-21T14:48:58-05:00</updated>
+    <dc:date>2013-04-21T14:48:58-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Combinatorial auctions have been suggested as a means to raise efficiency in multi-item negotiations with complementarities among goods because they can be applied in procurement, energy markets, transportation, and the sale of spectrum auctions. The combinatorial clock (CC) auction has become very popular in these markets for its simplicity and for its highly usable price discovery, derived by the use of linear prices. Unfortunately, no equilibrium bidding strategies are known. Given the importance of the CC auction in the field, it is highly desirable to understand whether there are efficient versions of the CC auction providing a strong game theoretical solution concept. So far, equilibrium strategies have only been found for combinatorial auctions with nonlinear and personalized prices for very restricted sets of bidder valuations. We introduce an extension of the CC auction, the CC+ auction, and show that it actually leads to efficient outcomes in an ex post equilibrium for genera]]</summary>
+    <title>Efficiency with Linear Prices? A Game-Theoretical and Computational Analysis of the Combinatorial Cl</title>
+    <updated>2013-04-21T14:48:57-05:00</updated>
+    <dc:date>2013-04-21T14:48:57-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[In recent years, with the emergence and growth of illegal file sharing on the Internet, individual piracy of digital goods, i.e., consumers making illegal copies on their own rather than relying on purchasing copies from commercial pirates, has stirred substantial controversy. Threatened by this growth, the information goods industry took legal action by suing the file sharing peer-to-peer networks and the consumers who illegally share copyrighted material on these networks. In this paper we demonstrate that each one of these two actions aimed to fight individual piracy can backfire by providing strategic disadvantage to legal publishers of information goods. In particular, we show that in the presence of commercial piracy (i) a higher population of consumers who are capable of individual piracy can increase a legal publisher's profits; and (ii) a higher detection and prosecution rate for individual piracy can reduce a legal publisher's profits. Both effects can be observed in markets ]]</summary>
+    <title>Fighting Fire with Fire: Commercial Piracy and the Role of File Sharing on Copyright Protection Poli</title>
+    <updated>2013-04-21T14:48:57-05:00</updated>
+    <dc:date>2013-04-21T14:48:57-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Applying behavioral economic theories, we hypothesize that consumers have sticky reference prices for individual information goods, but their perceived value for customizable bundle offers can be significantly influenced by the framing of a multipart pricing scheme. The potential impacts of these framing effects are measurable changes in consumer behavior and sales outcomes. We conducted a series of behavioral experiments and a large-scale natural field experiment involving actual purchases of customized information good bundles to confirm and analyze the hypothesized effects. The results demonstrate a consumer's willingness to purchase a customized bundle of information goods, the size of the resulting bundling, and the consumer's perceptions of the transaction are each significantly influenced by the design of the multipart pricing scheme. These results hold even when the final price and size of a customized bundle are the same across differing schemes. We discuss the potential trade]]</summary>
+    <title>The Framing Effects of Multipart Pricing on Consumer Purchasing Behavior of Customized Information G</title>
+    <updated>2013-04-21T14:48:56-05:00</updated>
+    <dc:date>2013-04-21T14:48:56-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[With reward (carrot) and punishment (stick) widely applied by organizations to regulate mandatory IT usage, it is imperative to understand how these incentives influence employee compliance behavior. Drawing upon control theory and regulatory focus theory, this study investigates the relationships among regulatory focus, reward, punishment, and compliance behavior in mandatory IT settings. Survey data were collected from 186 employees in companies where enterprise resource planning (ERP) compliance was mandated. Analyses reveal that punishment expectancy is a strong determinant of compliance behavior, whereas the main effect of reward expectancy is not significant. Moreover, the relationship between reward expectancy and compliance behavior is moderated by promotion focus and the relationship between punishment expectancy and compliance behavior is moderated by prevention focus. This study provides an in-depth understanding of reward and punishment in mandatory IT settings and suggests]]</summary>
+    <title>Ensuring Employees' IT Compliance: Carrot or Stick?</title>
+    <updated>2013-04-21T14:48:55-05:00</updated>
+    <dc:date>2013-04-21T14:48:55-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[In this paper we examine why firms seek to control and own interorganizational information systems, or IOS. Practitioners have largely cited the issues related to control and ownership of IOS, referred to as IOS governance in this paper, as the key reason behind the failure of many IOS initiatives. We distinguish between two IOS governance modes, transactional and financial, and develop a mediated-moderation model to explain the factors influencing the governance choices. In our model, the key motivators of IOS governance are the criticality and the replaceability of the resources that firms procure, which affect IOS governance through their influence on the degree of operational integration existing between partners. We hypothesize that while resource criticality will increase the needs for financial and transactional governance because of its positive impact on operational integration, resource replaceability will negatively influence governance needs because of its negative impact o]]</summary>
+    <title>Governance of Interorganizational Information Systems: A Resource Dependence Perspective</title>
+    <updated>2013-04-21T14:48:55-05:00</updated>
+    <dc:date>2013-04-21T14:48:55-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The growth in the application of information technology to student and employee learning underscores the need to understand the impact of technology-mediated learning (TML) methods. Using previous developed TML models, based on social cognitive theory and adaptive structuration meta-theory, the effectiveness of three training methods were examined in this study: technology mediated (using both vicarious and enactive learning), and collaborative and combined (collaborative plus technology mediated). The study also focused on the learning process. The experimental study results showed a significant positive influence of enactive learning enabled TML and collaborative training on specific training outcomes, and the combined training method shows positive results on all training outcomes. The study results also showed that faithful appropriation of the training methods during the learning process has a moderator effect on training outcomes. The study provides important research implication]]</summary>
+    <title>An Investigation of the Appropriation of Technology-Mediated Training Methods Incorporating Enactive</title>
+    <updated>2013-04-21T14:48:54-05:00</updated>
+    <dc:date>2013-04-21T14:48:54-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This research proposes that the forming of a business-to-consumer (B2C) customer relationship is part of a multiphased technology adoption process where attraction is the first step in this sequence. A conceptual model, called the electronic commerce (e-commerce) attraction model (eCAM), offers a theoretical foundation for guiding two empirical studies (N = 345 and N = 240, respectively) investigating how initial customer perceptions of a website influence attraction toward this website. The results support the eCAM as a new theoretical lens for understanding electronic commerce-based attraction. Comparisons are made between the proposed eCAM and previously established adoption models (i.e., the Technology Acceptance Model and WebQual) as well as the discriminant validity of the constructs in these models. Results demonstrate that the eCAM provides additional insights for understanding how website design influences e-commerce attraction and adoption. The implications of these results f]]</summary>
+    <title>Breaking the Ice in B2C Relationships: Understanding Pre-Adoption E-Commerce Attraction</title>
+    <updated>2013-04-21T14:48:53-05:00</updated>
+    <dc:date>2013-04-21T14:48:53-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Digital divide initiatives in developing countries are an important avenue for the socioeconomic advancement of those countries. Yet little research has focused on understanding the success of such initiatives. We develop a model of technology use and economic outcomes of digital divide initiatives in developing countries. We use social networks as the guiding theoretical lens because it is well suited to this context, given the low literacy, high poverty, high collectivism, and an oral tradition of information dissemination in developing countries. We test our model with longitudinal data gathered from 210 families in a rural village in India in the context of a digital divide initiative. As theorized, we found that the social network constructs contributed significantly to the explanation of technology use (R2 = 0.39). Also as we predicted, technology use partially mediated the effect of social network constructs on economic outcomes (R2 = 0.47). We discuss implications for theory an]]</summary>
+    <title>Digital Divide Initiative Success in Developing Countries: A Longitudinal Field Study in a Village i</title>
+    <updated>2013-04-21T14:48:53-05:00</updated>
+    <dc:date>2013-04-21T14:48:53-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[As the ability to measure technology resource usage gets easier with increased connectivity, the question whether a technology resource should be priced by the amount of the resource used or by the particular use of the resource has become increasingly important. We examine this issue in the context of pricing of wireless services: should the price be based on the service, e.g., voice, multimedia messages, short messages, or should it be based on the traffic generated? Many consumer advocates oppose discriminatory pricing across services believing that it enriches carriers at the expense of consumers. The opposition to discrimination has grown significantly, and it has even prompted the U.S. Congress to question executives of some of the biggest carriers. With this ongoing debate on discrimination in mind, we compare two pricing regimes here. One regime, namely, service pricing, involves pricing different services differently. The other one, namely, traffic pricing, involves pricing th]]</summary>
+    <title>Pricing of Wireless Services: Service Pricing vs. Traffic Pricing</title>
+    <updated>2013-04-21T14:48:52-05:00</updated>
+    <dc:date>2013-04-21T14:48:52-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Diversity is a defining characteristic of global collectives facilitated by the Internet. Though substantial evidence suggests that diversity has profound implications for a variety of outcomes including performance, member engagement, and withdrawal behavior, the effects of diversity have been predominantly investigated in the context of organizational workgroups or virtual teams. We use a diversity lens to study the success of nontraditional virtual work groups exemplified by open source software (OSS) projects. Building on the diversity literature, we propose that three types of diversity (separation, variety, and disparity) influence two critical outcomes for OSS projects: community engagement and market success. We draw on the OSS literature to further suggest that the effects of diversity on market success are moderated by the application development stage. We instantiate the operational definitions of three forms of diversity to the unique context of open source projects. Using ]]</summary>
+    <title>The Effects of Diversity in Global, Distributed Collectives: A Study of Open Source Project Success</title>
+    <updated>2013-04-21T14:48:52-05:00</updated>
+    <dc:date>2013-04-21T14:48:52-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The relationship between information technology (IT) and a key organizational design variable, firm size, is an important area of study, particularly given the ongoing transition to an information-based economy. To better understand the more nuanced aspects of the relationship, we formulated a bidirectional and time-lagged model that incorporates different perspectives from organizational theories and transaction cost economics. Our two models—the bidirectional and one-year lagged model and the bidirectional and two-year lagged model—were tested using nine-year panel data on IT spending, IT stock, coordination costs, firm size, and relevant control variables for 277 manufacturing firms. We found a sequential interaction between IT and firm size in both of the two models: as a firm grows in size, its coordination activities increase; the firm then uses more IT to handle the increased activities of coordination; this increased use of IT, in turn, decreases coordination costs, and eventua]]</summary>
+    <title>Research Note—Do Large Firms Become Smaller by Using Information Technology?</title>
+    <updated>2013-04-21T14:48:51-05:00</updated>
+    <dc:date>2013-04-21T14:48:51-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Interactive online decision aids often employ user-decision aid dialogues as forms of user-system interaction to help construct and elicit users' attribute preferences about a product type. This study extends prior research on online decision aids by investigating the effects of a decision aid's user-system interaction mode (USIM), which can be either user-guided or system-controlled, on users' effort-related (number of iterations of using the aid and perceived cognitive effort expended in using it) and quality-related (perceived quality of the aid and acceptance of the product advice it provides) assessments. A contingency approach with two moderating factors is employed. One factor is the decision strategy (additive-compensatory or elimination) employed by the aid, and the other is the users' product knowledge (high or low).]]</summary>
+    <title>A Contingency Approach to Investigating the Effects of User-System Interaction Modes of Online Decis</title>
+    <updated>2013-04-21T14:48:51-05:00</updated>
+    <dc:date>2013-04-21T14:48:51-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Technological advances enable sellers to price discriminate based on a customer's revealed purchasing intentions. E-tailers can track items in online shopping carts and radio frequency identification tags enable retailers to do the same in brick-and-mortar stores. To leverage this information, it is important to understand how this new visibility impacts pricing and market outcomes. We propose a model in which a seller sets prices for goods A and B, allowing for the possibility of sequentially revising the price for good B if the buyer reveals a preference for good A by making an initial purchase decision. We derive comparative statics results for the prices of products that have superadditive or subadditive values, and also for the associated profits. We also run simulations for a range of distributions of buyer values, to compare sequential pricing with mixed bundling. The results indicate that information technology-enabled sequential pricing can increase profits relative to mixed b]]</summary>
+    <title>Sequential Pricing of Multiple Products: Leveraging Revealed Preferences of Retail Customers Online </title>
+    <updated>2013-04-21T14:48:50-05:00</updated>
+    <dc:date>2013-04-21T14:48:50-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Firms often disclose information security risk factors in public filings such as 10-K reports. The internal information associated with disclosures may be positive or negative. In this paper, we evaluate how the nature of the disclosed security risk factors, believed to represent the firm's internal information regarding information security, is associated with future breach announcements reported in the media. For this purpose, we build a decision tree model, which classifies the occurrence of future security breaches based on the textual contents of the disclosed security risk factors. The model is able to accurately associate disclosure characteristics with breach announcements about 77% of the time. We further explore the contents of the security risk factors using text-mining techniques to provide a richer interpretation of the results. The results show that the disclosed security risk factors with risk-mitigation themes are less likely to be related to future breach announcements]]</summary>
+    <title>The Association Between the Disclosure and the Realization of Information Security Risk Factors</title>
+    <updated>2013-04-21T14:48:50-05:00</updated>
+    <dc:date>2013-04-21T14:48:50-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This article analytically and experimentally investigates how firms can best capture the business value of information technology (IT) investments through IT contract design. Using a small sample of outsourcing contracts for enterprise information technology (EIT) projects in several industries—coupled with reviews of contracts used by a major enterprise software maker—the authors determine the common provisions and structural characteristics of EIT contracts. The authors use these characteristics to develop an analytical model of optimal contract design with principal–agent techniques. The model captures a set of key characteristics of EIT contracts, including a staged, multiperiod project structure; learning; probabilistic binary outcomes; variable fee structures; possibly risk-averse agents; and implementation risks. The model characterizes conditions under which multistage contracts enable clients to create and capture greater project value than single-stage projects, and how proje]]</summary>
+    <title>IT Implementation Contract Design: Analytical and Experimental Investigation of IT Value, Learning, </title>
+    <updated>2013-04-21T14:48:49-05:00</updated>
+    <dc:date>2013-04-21T14:48:49-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[In information security outsourcing, it is the norm that the outsourcing firms and the outsourcers (commonly called managed security service providers, MSSPs) need to coordinate their efforts for better security. Nevertheless, efforts are often private and thus both firms and MSSPs can suffer from double moral hazard. Furthermore, the double moral hazard problem in security outsourcing is complicated by the existence of strong externality and the multiclient nature of MSSP services. In this prescriptive research, we first show that the prevailing contract structure in security outsourcing, bilateral refund contract, cannot solve double moral hazard. Adding breach-contingent sunk cost or external payment cannot solve double moral hazard either. Furthermore, positive externality can worsen double moral hazard. We then propose a new contract structure termed multilateral contract and show that it can solve double moral hazard and induce first-best efforts from all contractual parties when]]</summary>
+    <title>Contracting Information Security in the Presence of Double Moral Hazard</title>
+    <updated>2013-04-21T14:48:49-05:00</updated>
+    <dc:date>2013-04-21T14:48:49-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[As a result of newer communication technologies and an increase in virtual communication, employees often find themselves multicommunicating, or participating in multiple conversations at the same time. This research seeks to explore multicommunicating from the perspective of the person juggling multiple conversations at the same time—the focal individual. To better understand this phenomenon, we extend previous theorizing by including the concepts of the episode initiator (whether the second conversation was focal or partner initiated), the fit of the set of media used in the episode, one process gain (conversation leveraging), and process losses. Employing a series of pilot studies and a main study, the resulting model was analyzed using structural equation modeling, finding overall support for the model. Findings suggest that experienced intensity is an important factor influencing process losses experienced during multicommunicating, whereas episode initiator influences process los]]</summary>
+    <title>Multicommunicating: Juggling Multiple Conversations in the Workplace</title>
+    <updated>2013-04-21T14:48:48-05:00</updated>
+    <dc:date>2013-04-21T14:48:48-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This article investigates the economic consequences of data errors in the information flows associated with business processes. We develop a process modeling-based methodology for managing the risks associated with such data errors. Our method focuses on the topological structure of a process and takes into account its effect on error propagation and risk mitigation using both expected loss and conditional value-at-risk risk measures. Using this method, optimal strategies can be designed for control resource allocation to manage risk in a business process. Our work contributes to the literature on both ex ante risk management-based business process design and ex post risk assessments of existing business processes and control models. This research applies not only to the literature on and practice of process design and risk management but also to business decision support systems in general. An order-fulfillment process of an online pharmacy is used to illustrate the methodology.]]</summary>
+    <title>On Risk Management with Information Flows in Business Processes</title>
+    <updated>2013-04-21T14:48:48-05:00</updated>
+    <dc:date>2013-04-21T14:48:48-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Information systems must be used effectively to obtain maximum benefits from them. However, despite a great deal of research on when and why systems are used, very little research has examined what effective system use involves and what drives it. To move from use to effective use requires understanding an information system's nature and purpose, which in turn requires a theory of information systems. We draw on representation theory, which states that an information system is made up of several structures that serve to represent some part of the world that a user and other stakeholders must understand. From this theory, we derive a high-level framework of how effective use and performance evolve, as well as specific models of the nature and drivers of effective use. The models are designed to explain the effective use of any information system and offer unique insights that would not be offered by traditional views, which tend to consider information systems to be just another tool. W]]</summary>
+    <title>From Use to Effective Use: A Representation Theory Perspective</title>
+    <updated>2013-04-21T14:48:47-05:00</updated>
+    <dc:date>2013-04-21T14:48:47-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Existing research provides little insight into how social influence affects the adoption and diffusion of competing innovative artifacts and how the experiences of organizational members who have worked with particular innovations in their previous employers affect their current organizations' adoption decision. We adapt and extend the heterogeneous diffusion model from sociology and examine the conditions under which prior adopters of competing open source software (OSS) licenses socially influence how a new OSS project chooses among such licenses and how the experiences of the project manager of a new OSS project with particular licenses affects its susceptibility to this social influence. We test our predictions using a sample of 5,307 open source projects hosted at SourceForge. Our results suggest the most important factor determining a new project's license choice is the type of license chosen by existing projects that are socially closer to it in its inter-project social network.]]</summary>
+    <title>Networks, Social Influence, and the Choice Among Competing Innovations: Insights from Open Source So</title>
+    <updated>2013-04-21T14:48:46-05:00</updated>
+    <dc:date>2013-04-21T14:48:46-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We explore how Internet browsing behavior varies between mobile phones and personal computers. Smaller screen sizes on mobile phones increase the cost to the user of browsing for information. In addition, a wider range of offline locations for mobile Internet usage suggests that local activities are particularly important. Using data on user behavior at a (Twitter-like) microblogging service, we exploit exogenous variation in the ranking mechanism of posts to identify the ranking effects. We show that (1) ranking effects are higher on mobile phones suggesting higher search costs: links that appear at the top of the screen are especially likely to be clicked on mobile phones and (2) the benefit of browsing for geographically close matches is higher on mobile phones: stores located in close proximity to a user's home are much more likely to be clicked on mobile phones. Thus, the mobile Internet is somewhat less “Internet-like”: search costs are higher and distance matters more. We specul]]</summary>
+    <title>How Is the Mobile Internet Different? Search Costs and Local Activities</title>
+    <updated>2013-04-21T14:48:46-05:00</updated>
+    <dc:date>2013-04-21T14:48:46-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We analyze the impact of information technology (IT) on the technical efficiency of firms in the context of their observed competitive settings. Because competition can be a driver of efficiency and industries display varying degrees of competitiveness, firm-level efficiency is likely to display considerable heterogeneity. To shed light on these questions, we analyze the economic impact of IT on technical efficiency, a key component of efficiency, in heterogeneous competitive settings. Our study employs a number of econometric techniques, including a stochastic frontier and a generalized method of moments approach, on data from firms in a wide cross-section of industries. We find, after controlling for firm-level heterogeneity and potential endogeneity, that IT is positively associated with gains in technical efficiency but its impact is moderated by the degree of competition. Firms display large variation in their levels of technical efficiency partly because of the heterogeneous mark]]</summary>
+    <title>An Empirical Analysis of Technical Efficiency: The Role of IT Intensity and Competition</title>
+    <updated>2013-04-21T14:48:45-05:00</updated>
+    <dc:date>2013-04-21T14:48:45-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Combinatorial auctions are used in a variety of application domains, such as transportation or industrial procurement, using a variety of bidding languages and different allocation constraints. This flexibility in the bidding languages and the allocation constraints is essential in these domains but has not been considered in the theoretical literature so far. In this paper, we analyze different pricing rules for ascending combinatorial auctions that allow for such flexibility: winning levels and deadness levels. We determine the computational complexity of these pricing rules and show that deadness levels actually satisfy an ex post equilibrium, whereas winning levels do not allow for a strong game theoretical solution concept. We investigate the relationship of deadness levels and the simple price update rules used in efficient ascending combinatorial auction formats. We show that ascending combinatorial auctions with deadness level pricing rules maintain a strong game theoretical so]]</summary>
+    <title>Ascending Combinatorial Auctions with Allocation Constraints: On Game Theoretical and Computational </title>
+    <updated>2013-04-21T14:48:44-05:00</updated>
+    <dc:date>2013-04-21T14:48:44-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper considers on-demand services and its impact on market structure, firm profitability, and consumer welfare. The unique properties of on-demand services are the conversion of fixed costs to variable costs, removal of capacity constraint, and fast setup time (which enables quick entry by any firm at any time when there is opportunity), whereas privacy and security concerns and switching costs have been noted as the biggest barriers from adopting on-demand services. With a stylized model capturing these benefits and barriers to using on-demand services, we establish several results. First, we show that conversion of fixed cost to variable cost enables new and small firms to enter existing markets and leads to the creation of new markets. Second, we show that competition and the threat of new entrants can be an important driver of a firm's decision to switch to on-demand services. In addition, a firm's barriers to using on-demand services can influence another firm's entry decisi]]</summary>
+    <title>The Impact and Implications of On-Demand Services on Market Structure</title>
+    <updated>2013-04-21T14:48:43-05:00</updated>
+    <dc:date>2013-04-21T14:48:43-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Topical locality on the Web is the notion that pages tend to link to other topically similar pages and that such similarity decays rapidly with link distance. This supports meaningful Web browsing and searching by information consumers. It also allows topical Web crawlers, programs that fetch pages by following hyperlinks, to harvest topical subsets of the Web for applications such as those in vertical search and business intelligence. We show that the Web exhibits another property that we call “status locality.” It is based on the notion that pages tend to link to other pages of similar status (importance) and that this status similarity also decays rapidly with link distance. Analogous to topical locality, status locality may also be exploited by Web crawlers. Collections built by such crawlers include pages that are both topically relevant and also important. This capability is crucial because of the large numbers of Web pages addressing even niche topics. The challenge in exploitin]]</summary>
+    <title>Status Locality on the Web: Implications for Building Focused Collections</title>
+    <updated>2013-04-21T14:48:43-05:00</updated>
+    <dc:date>2013-04-21T14:48:43-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The value of promotional marketing and word-of-mouth (WOM) is well recognized, but few studies have compared the effects of these two types of information in online settings. This research examines the effect of marketing efforts and online WOM on product sales by measuring the effects of online coupons, sponsored keyword search, and online reviews. It aims to understand the relationship between firms' promotional marketing and WOM in the context of a third party review platform. Using a three-year panel data set from one of the biggest restaurant review websites in China, the study finds that both online promotional marketing and reviews have a significant impact on product sales, which suggests promotional marketing on third party review platforms is still an effective marketing tool. This research further explores the interaction effects between WOM and promotional marketing when these two types of information coexist. The results demonstrate a substitute relationship between the WO]]</summary>
+    <title>Promotional Marketing or Word-of-Mouth? Evidence from Online Restaurant Reviews</title>
+    <updated>2013-04-21T14:48:42-05:00</updated>
+    <dc:date>2013-04-21T14:48:42-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Crowd-funded markets have recently emerged as a novel source of capital for entrepreneurs. As the economic potential of these markets is now being realized, they are beginning to go mainstream, a trend reflected by the explicit attention crowdfunding has received in the American Jobs Act as a potential avenue for economic growth, as well as the recent focus that regulators such as the U.S. Securities and Exchange Commission have placed upon it. Although the formulation of regulation and policy surrounding crowd-funded markets is becoming increasingly important, the behavior of crowdfunders, an important aspect that must be considered in this formulation effort, is not yet well understood. A key factor that can influence the behavior of crowd funders is information on prior contribution behavior, including the amount and timing of others' contributions, which is published for general consumption. With that in mind, in this study, we empirically examine social influence in a crowd-funded]]</summary>
+    <title>An Empirical Examination of the Antecedents and Consequences of Contribution Patterns in Crowd-Funde</title>
+    <updated>2013-04-21T14:48:41-05:00</updated>
+    <dc:date>2013-04-21T14:48:41-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This study frames antecedents of effective information use, outlining a nomological network that firms follow to achieve integrated information delivery and effective information use. Our focus is on senior business executives' assessment of information delivered by their organizations' information systems. We first clarify the definition of information as it relates to information delivery and effective use. Then, drawing from institutional theory and the resource-based view of the firm, we propose a research model consisting of external institutional pressure, internal information systems (IS) resources, integrated information delivery, and effective information use and empirically test it through a field survey of senior business executives and post hoc qualitative analysis. Our findings position information delivery as an important research construct leading to effective information use and value. Our study also highlights the important role of the IS function as a facilitator of e]]</summary>
+    <title>A View from the Top: Integrated Information Delivery and Effective Information Use from the Senior E</title>
+    <updated>2013-04-21T14:48:41-05:00</updated>
+    <dc:date>2013-04-21T14:48:41-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Digital technologies have made networks ubiquitous. A growing body of research is examining these networks to gain a better understanding of how firms interact with their consumers, how people interact with each other, and how current and future digital artifacts will continue to alter business and society. The increasing availability of massive networked data has led to several streams of inquiry across fields as diverse as computer science, economics, information systems, marketing, physics, and sociology. Each of these research streams asks questions that at their core involve “information in networks”—its distribution, its diffusion, its inferential value, and its influence on social and economic outcomes. We suggest a broad direction for research into social and economic networks. Our analysis describes four kinds of investigation that seem most promising. The first studies how information technologies create and reveal networks whose connections represent social and economic rela]]</summary>
+    <title>Information in Digital, Economic, and Social Networks</title>
+    <updated>2013-04-21T14:48:40-05:00</updated>
+    <dc:date>2013-04-21T14:48:40-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Personalization technologies today enable retailers to tailor online purchase interactions to the individual preferences and needs of customers. With personalization being increasingly perceived as a source of competitive advantage, there is a growing trend toward pursuing technology-enabled personalization strategies in online retailing. However, the choice of a retailer whether or not to select into technology-enabled personalization and its implications for customer loyalty are at best ambiguous. This paper is an attempt to resolve this apparent ambiguity. Specifically, the paper conceptualizes retailer selection into technology-enabled personalization strategies relevant to two steps of an online purchase, namely, transaction personalization strategy and decision personalization strategy, based on the operating characteristics of a retailer. The implications of the retailers' self-selection into technology-enabled personalization strategies for customer loyalty are then empirically]]</summary>
+    <title>To Personalize or Not to Personalize Online Purchase Interactions: Implications of Self-Selection by</title>
+    <updated>2013-04-21T14:48:40-05:00</updated>
+    <dc:date>2013-04-21T14:48:40-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Information technology (IT) infrastructure outsourcing arrangements involve multiple services and processes that are interdependent. The interdependencies pose significant challenges in designing appropriate incentives to influence a provider's effort-allocation decisions. By integrating process modeling fundamentals with multitask agency theory, we enumerate the base set of possible interrelationships among different IT service processes and derive corresponding optimal incentives. Our results demonstrate the impacts of risk profile, random noise, value-cost ratio, and process structure on optimal incentive rates. We find that the current practice of treating IT services as essentially independent is optimal only in limited settings where both the service provider and customer are risk neutral. Interestingly, incongruent performance measures require optimal incentive rates to respond in complex ways to the strength of coupling between services and the complementarity and substitutabil]]</summary>
+    <title>Interdependencies in IT Infrastructure Services: Analyzing Service Processes for Optimal Incentive D</title>
+    <updated>2013-04-21T14:48:39-05:00</updated>
+    <dc:date>2013-04-21T14:48:39-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Open source software (OSS) communities live and die with the continuous contributions of programmers who often participate without direct remuneration. An intriguing question is whether such sustained participation in OSS projects yields economic benefits to the participants. Moreover, as participants engage in OSS projects, they take on different roles and activities in the community. This raises additional questions of whether different forms of participation in OSS communities are associated with different economic rewards and, if so, in which contexts. In this paper, we draw upon theories of signaling and job matching to hypothesize that participants who possess “proof” of their skills in OSS projects are financially rewarded for their activities in the labor market. More specifically, we distinguish between participation in OSS communities that is associated with a signaling value for unobserved productivity characteristics and an additional value that accrues to participants whos]]</summary>
+    <title>All Are Not Equal: An Examination of the Economic Returns to Different Forms of Participation in Ope</title>
+    <updated>2013-04-21T14:48:39-05:00</updated>
+    <dc:date>2013-04-21T14:48:39-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The Internet has provided IS researchers with the opportunity to conduct studies with extremely large samples, frequently well over 10,000 observations. There are many advantages to large samples, but researchers using statistical inference must be aware of the p-value problem associated with them. In very large samples, p-values go quickly to zero, and solely relying on p-values can lead the researcher to claim support for results of no practical significance. In a survey of large sample IS research, we found that a significant number of papers rely on a low p-value and the sign of a regression coefficient alone to support their hypotheses. This research commentary recommends a series of actions the researcher can take to mitigate the p-value problem in large samples and illustrates them with an example of over 300,000 camera sales on eBay. We believe that addressing the p-value problem will increase the credibility of large sample IS research as well as provide more insights for read]]</summary>
+    <title>Too Big to Fail: Large Samples and the p-Value Problem</title>
+    <updated>2013-04-21T14:48:38-05:00</updated>
+    <dc:date>2013-04-21T14:48:38-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We investigate how intellectual property rights (IPR) enforcement against developers and users of open source software (OSS) affects the success of related OSS projects. We hypothesize that when an IPR enforcement action is filed, user interest and developer activity will be negatively affected in two types of related OSS projects—those that display technology overlap with the OSS application in dispute and business projects that are specific to the disputed OSS platform. We examine two widely publicized lawsuits—SCO v. IBM and FireStar/DataTern v. Red Hat—using data from SourceForge.net. Our difference-in-difference estimates show that in the months following the filing of SCO v. IBM, OSS projects that exhibit high technology overlap with the disputed OSS experienced a 15% greater decline in user interest and 45% less developer activity than projects in the control group; OSS projects that are intended for business and specific to the disputed OSS platform had a 34% greater decline in]]</summary>
+    <title>The Impact of Intellectual Property Rights Enforcement on Open Source Software Project Success</title>
+    <updated>2013-04-21T14:48:37-05:00</updated>
+    <dc:date>2013-04-21T14:48:37-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://isr.journal.informs.org/content/early/recent</id>
+    <link href="http://isr.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Universal access (UA) to the Internet and the associated information infrastructure has become an important economic and societal goal. However, UA initiatives tend to focus on issues such as physical access and geographical ubiquity, and they measure adoption through penetration rates. In this paper, we apply an interpretive case study approach to analyze the Philadelphia wireless initiative to provide insights into the nature of UA and extend this concept to also consider universal use (UU). UU is important because simply providing access does not guarantee use. UU is presented as a conceptual goal that starts with the challenge of physical access, but which necessarily also leads to considerations of use. The results show that the human and technological elements underlying individual access and use are deeply embedded within various institutional elements and collectives that enable but also constrain meaningful use. We integrate our findings into a multilevel framework that shows ]]</summary>
+    <title>Moving from Access to Use of the Information Infrastructure: A Multilevel Sociotechnical Framework</title>
+    <updated>2013-04-21T14:48:37-05:00</updated>
+    <dc:date>2013-04-21T14:48:37-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This study examines firms' strategic decisions in the competitive market regarding whether to engage in marketing activities to assist consumers in finding the fit between their personal tastes and products' horizontal attributes. We find that competitive firms' strategies to facilitate fit revelation critically depend on the product qualities they offer. In particular, a firm offering a high-quality product is more likely to facilitate fit revelation in the competitive market than it would as a market monopolist, whereas a firm offering a low-quality product is less likely to do so. In addition, the firm offering the high-quality product implements fit-revealing activities in a greater intensity than its rival that offers the low-quality product, if the quality difference between the two products is small and both products' qualities are sufficiently high.]]</summary>
+    <title>Facilitating Fit Revelation in the Competitive Market</title>
+    <updated>2013-04-21T14:48:36-05:00</updated>
+    <dc:date>2013-04-21T14:48:36-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[The design of a matching market may affect behavior in prematch stages. In some settings, forward-looking agents might purchase low-priced properties with the intention of trading up. From a design standpoint, such behavior is undesirable. We investigate a tiered structure as a potential solution. Using a model that endogenizes prematch acquisition decisions, we show that tiers promote exchange while protecting the primary market. In the laboratory, we find that both firm revenue and total social surplus are improved by tiered matching, and the amount of improvement depends on the exchange mechanism the firm uses. We focus on two popular mechanisms—deposit first and request first. We find that subjects are less likely to take advantage of the match under tier-free deposit first mechanism, possibly because of risk aversion. Thus, a tiered approach is more critical under the request first mechanism. We confirm that risk aversion partly explains deviations from theory.]]</summary>
+    <title>Tiers in One-Sided Matching Markets: Theory and Experimental Investigation</title>
+    <updated>2013-04-21T14:48:35-05:00</updated>
+    <dc:date>2013-04-21T14:48:35-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper studies the performance of delegated decision-making schemes in a two-stage, multidivision capital budgeting problem for a shared investment with an inherent abandonment option. Applying both robust goal congruence and sequential adverse selection frameworks, we show that the optimal capital budgeting mechanism entails a capital charge rate above the firm's cost of capital in the first stage but below the cost of capital in the second stage. Further, the first-stage asset cost-sharing rule depends only on the relative divisional growth profiles, and equal cost sharing can be optimal even when the divisions receive significantly different benefits from the shared investment project. In the presence of an adverse selection problem, all agency costs are incorporated into the second-stage budgeting mechanism, leaving the first-stage capital charge rate and asset-sharing rule unaffected even though the agency problem induces capital rationing at both stages.]]</summary>
+    <title>Multistage Capital Budgeting for Shared Investments</title>
+    <updated>2013-04-21T14:48:35-05:00</updated>
+    <dc:date>2013-04-21T14:48:35-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[In this paper, we develop a theoretical model to analyze the pricing strategies of competing retailers with asymmetric cross-selling capabilities when product demand changes. Our results suggest that retailers with better opportunities for cross-selling have higher incentives to adopt loss-leader pricing on high-demand products than retailers with low cross-selling capabilities. As a result, price dispersion of a product across retailers rises when its demand increases. The predictions of our model are consistent with the empirical evidence from the online book retailing industry. Using product breadth as a proxy for cross-selling capability, we find that retailers with high cross-selling capabilities reduce prices on best sellers more aggressively than retailers with low cross-selling capabilities. As a result, price dispersion increases when a book makes it to the best-seller list, and the increase is mainly driven by the difference in pricing behavior between retailers with differen]]</summary>
+    <title>Price Dispersion and Loss-Leader Pricing: Evidence from the Online Book Industry</title>
+    <updated>2013-04-21T14:48:34-05:00</updated>
+    <dc:date>2013-04-21T14:48:34-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We propose a two-stage game-theoretic approach to study the operations of an airline alliance in which independent carriers, managing different reservation and information systems, can collaboratively market and operate codeshare and interline itineraries. In the first-stage game, airlines negotiate fixed proration rates to share the revenues generated by such itineraries. In the second-stage game, airlines operate independent inventory control systems to maximize their own expected revenues. We derive a revenue-sharing rule that is (i) an admissible outcome of the first-stage negotiation, in the sense that no airline coalition has enough incentives to secede from the grand alliance, and (ii) efficient for the second-stage game, in the sense that the decentralized system can achieve the same revenues as a central planner managing the global alliance network. Our numerical study shows that the proposed proration rates can lead to a significant increase in revenues with respect to other ]]</summary>
+    <title>Revenue Sharing in Airline Alliances</title>
+    <updated>2013-04-21T14:48:33-05:00</updated>
+    <dc:date>2013-04-21T14:48:33-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[In this paper we study how treatment effectiveness and side effects impact the prescription decision of a risk-averse physician, and how detailing and patient feedback help reduce the physician's uncertainty in these two attributes in the erectile dysfunction category. To separately identify the impacts of effectiveness and side effects, we augment the observed prescription choices with unique data on self-reported reasons for switching in our estimation. Results show that the two new drugs Levitra and Cialis have higher mean effectiveness than the existing drug Viagra, but physicians have large uncertainty regarding the effectiveness for Levitra and side effects for Cialis. Detailing is effective in reducing the uncertainty for effectiveness but much less so for side effects. Based on the results, we investigate the roles of effectiveness and side effects in physicians' prescription choices, and the importance of detailing for new entrants in competing with incumbent drugs.]]</summary>
+    <title>Treatment Effectiveness and Side Effects: A Model of Physician Learning</title>
+    <updated>2013-04-21T14:48:33-05:00</updated>
+    <dc:date>2013-04-21T14:48:33-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We analyze a novel principal–agent problem of moral hazard and adverse selection in continuous time. The constant private shock revealed at time 0 when the agent selects the contract has a long-term impact on the optimal contract. The latter is based not only on the continuation value of the agent who truthfully reports but is also contingent upon the continuation value of the agent who misreports, called the temptation value. The good agent is retired when the temptation value of the bad agent becomes large, because then it is expensive to motivate the good agent. The bad agent is retired when the temptation value of the good agent becomes small, because then the future payment does not provide sufficient incentives. We also compare the efficiency of the shutdown contract and the screening contract and find that the screening contract can bring more profit to the principal only when the agent's reservation utility is sufficiently small.]]</summary>
+    <title>Dynamics of Contract Design with Screening</title>
+    <updated>2013-04-21T14:48:32-05:00</updated>
+    <dc:date>2013-04-21T14:48:32-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper shows that the effect of different distribution channel structures on product quality depends on the type of consumer heterogeneity and its distribution in a market. When consumer heterogeneity is uniformly distributed either vertically on willingness to pay or horizontally on transaction costs, a manufacturer may provide the same or lower product quality in a decentralized channel than in a centralized channel. In contrast, when consumer heterogeneity follows a more general distribution on willingness to pay, under certain conditions, the manufacturer may provide higher product quality in a decentralized channel than in a centralized channel. Decentralization also may lead to a higher product quality if consumer heterogeneity is uniformly distributed both vertically and horizontally, but not if consumer heterogeneity is uniformly distributed vertically on each of two product-quality attributes. Additionally, competition at the retail level may amplify these findings.]]</summary>
+    <title>Consumer Heterogeneity, Product Quality, and Distribution Channels</title>
+    <updated>2013-04-21T14:48:31-05:00</updated>
+    <dc:date>2013-04-21T14:48:31-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Business groups are key sources of innovation in emerging market economies, but we understand little about why innovativeness differs across groups and over time. Variation in the density of intragroup buyer–supplier ties, which are common structural linkages among group affiliates, can help explain both cross-sectional and temporal heterogeneity of group innovativeness. We argue that greater buyer–supplier density within a group initially creates combinatorial opportunities that contribute to group innovativeness but ultimately generates combinatorial exhaustion that constrains innovation. Combinatorial exhaustion will set in at lower levels of density as the market environment becomes more developed because the opportunity costs of local search increase. The research introduces a dynamic argument to studies of business-group innovation.]]</summary>
+    <title>The Evolving Impact of Combinatorial Opportunities and Exhaustion on Innovation by Business Groups a</title>
+    <updated>2013-04-21T14:48:31-05:00</updated>
+    <dc:date>2013-04-21T14:48:31-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Leshno and Levy [Leshno M, Levy H (2002) Preferred by “all” and preferred by “most” decision makers: Almost stochastic dominance. Management Sci. 48(8):1074–1085] established almost stochastic dominance to reveal preferences for most rather than all decision makers with an increasing and concave utility function. In this paper, we first provide a counterexample to the main theorem of Leshno and Levy related to almost second-degree stochastic dominance. We then redefine this dominance condition and show that the newly defined almost second-degree stochastic dominance is the necessary and sufficient condition to rank distributions for all decision makers excluding the pathological concave preferences. We further extend our results to almost higher-degree stochastic dominance.]]</summary>
+    <title>Revisiting Almost Second-Degree Stochastic Dominance</title>
+    <updated>2013-04-21T14:48:30-05:00</updated>
+    <dc:date>2013-04-21T14:48:30-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper analyzes the United States Medicare hospice reimbursement policy. The existing policy consists of a daily payment for each patient under care with a global cap of revenues accrued during the Medicare year, which increases with each newly admitted patient. We investigate the hospice's expected profit and provide reasons for a spate of recent provider bankruptcies related to the reimbursement policy; recommendations to alleviate these problems are given. We also analyze a hospice's incentives for patient management, finding several unintended consequences of the Medicare reimbursement policy. Specifically, a hospice may seek short-lived patients (such as cancer patients) over patients with longer expected lengths of stay. The effort with which hospices seek out, or recruit, such patients will vary during the year. Furthermore, the effort they apply to actively discharge a patient whose condition has stabilized may also depend on the time of year. These phenomena are unintended]]</summary>
+    <title>On Hospice Operations Under Medicare Reimbursement Policies</title>
+    <updated>2013-04-21T14:48:30-05:00</updated>
+    <dc:date>2013-04-21T14:48:30-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Existing research on newsvendor behavior asserts that individuals engage in demand chasing—adjusting their order quantities towards prior demand. Several metrics have been used to identify this heuristic. By simulation, current metrics are shown to yield excessive false positives, indicating demand chasing when the true order generating process is independent of prior demand. A simple correlation measure does not suffer from this problem and is proposed here as an alternative to some of the more commonly used measures.]]</summary>
+    <title>Newsvendor Demand Chasing Revisited</title>
+    <updated>2013-04-21T14:48:29-05:00</updated>
+    <dc:date>2013-04-21T14:48:29-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We propose a model of eye-tracking data to understand information acquisition patterns on attribute-by-product matrices, which are common in online choice environments such as comparison websites. The objective is to investigate how consumers gather product and attribute information from moment to moment. We propose a hierarchical hidden Markov model that consists of three connected layers: a lower layer that describes the eye movements, a middle layer that identifies information acquisition processes, and an upper layer that captures strategy switching. The proposed model accounts for the data better than several alternative models. The results show that consumers switch frequently between acquisition strategies, and they obtain information on only two or three attributes or products in a particular acquisition strategy before switching. Horizontal and contiguous eye movements play an important role in information acquisition. Furthermore, our results shed new light on the phenomenon ]]</summary>
+    <title>Information Acquisition During Online Decision Making: A Model-Based Exploration Using Eye-Tracking </title>
+    <updated>2013-04-21T14:48:29-05:00</updated>
+    <dc:date>2013-04-21T14:48:29-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Manufacturers manage interrelated flows of material and cash. Material needs capital, and sales contribute cash. Therefore, it may be beneficial to coordinate operational and financial decisions. We study a dynamic model of coordination in an equity-financed firm in which inventory and financial decisions interact in the presence of demand uncertainty, financial constraints, and a risk of default. The criterion is to maximize the expected present value of dividends net of capital subscriptions. The optimal target inventory level and financial decision variables are nondecreasing functions of the levels of inventory and retained earnings. Some important attributes of an optimal policy remain the same regardless of whether default precipitates Chapter 7 or Chapter 11 bankruptcy. The optimal policy is myopic, and if pertinent cost functions are piecewise linear, it is characterized with simple formulas. We show that the methods of inventory theory are useful in analyzing models of operati]]</summary>
+    <title>Control of Dividends, Capital Subscriptions, and Physical Inventories</title>
+    <updated>2013-04-21T14:48:28-05:00</updated>
+    <dc:date>2013-04-21T14:48:28-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We show that the value of commitment is fragile in many standard games. When the follower faces a small cost to observe the leader's action, equilibrium payoffs are identical to the case where the leader's actions are unobservable. Applications of our result include standard Stackelberg–Cournot and differentiated product Bertrand games, as well as forms of indirect commitment, highlighted in Bulow et al. [Bulow J, Geanakoplos J, Klemperer P (1985) Multimarket oligopoly: Strategic substitutes and strategic complements. J. Political Econom. 93:488–511]. Weakening full rationality in favor of boundedly rational solution concepts such as quantal-response equilibrium restores the value of commitment.]]</summary>
+    <title>The Fragility of Commitment</title>
+    <updated>2013-04-21T14:48:28-05:00</updated>
+    <dc:date>2013-04-21T14:48:28-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Many important decisions are routinely made by transient and temporary teams, which perform their duty and disperse. Team members often continue making similar decisions as individuals. We study how the experience of team decision making affects subsequent individual decisions in two seminal probability and reasoning tasks, the Monty Hall problem and the Wason selection task. Both tasks are hard and involve a general rule, thus allowing for knowledge transfers, and can be embedded in the context of markets that offer identical incentives to teams and individuals. Our results show that teams trade closer to the rational level, learn the solution faster, and achieve this with weaker, less specific performance feedback than individuals. Most importantly, we observe significant knowledge transfers from team decision making to subsequent individual performances that take place up to five weeks later, indicating that exposure to team decision making has strong positive spillovers on the qual]]</summary>
+    <title>Teams Make You Smarter: How Exposure to Teams Improves Individual Decisions in Probability and Reaso</title>
+    <updated>2013-04-21T14:48:27-05:00</updated>
+    <dc:date>2013-04-21T14:48:27-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper shows that corporate social responsibility (CSR) and firm value are positively related for firms with high customer awareness, as proxied by advertising expenditures. For firms with low customer awareness, the relation is either negative or insignificant. In addition, we find that the effect of awareness on the CSR–value relation is reversed for firms with a poor prior reputation as corporate citizens. This evidence is consistent with the view that CSR activities can add value to the firm but only under certain conditions.]]</summary>
+    <title>The Impact of Corporate Social Responsibility on Firm Value: The Role of Customer Awareness</title>
+    <updated>2013-04-21T14:48:26-05:00</updated>
+    <dc:date>2013-04-21T14:48:26-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We model a system that consists of a stream of customers processed through three steps by two resources. The first resource, an investigator, handles the first step, in which she collects information from the customer and decides what work will be done in the second step by the second resource, the back office. In the third step, the investigator returns to the customer armed with the additional information or analysis done by the back office and provides the customer with a conclusion, solution, or diagnosis. The investigator has to prioritize either seeing a new customer or completing the work with a customer already in the system. While serving one customer, the investigator may be interrupted by requests from the other customers in the system. Our main objective is to understand the impact of the investigator's choices on system throughput. In addition, we are interested in the occupancy of the system (and thus the flow time of customers). We create a stylized queueing model to exa]]</summary>
+    <title>Optimal Workflow Decisions for Investigators in Systems with Interruptions</title>
+    <updated>2013-04-21T14:48:26-05:00</updated>
+    <dc:date>2013-04-21T14:48:26-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This study reports findings from the first large-scale experiment investigating whether entrepreneurs differ from other people in their willingness to expose themselves to various forms of uncertainty. A stratified random sample of 700 chief executive officers from the Yangzi delta region in China is compared to 200 control group members. Our findings suggest that in economic decisions, entrepreneurs are more willing to accept strategic uncertainty related to multilateral competition and trust. However, entrepreneurs do not differ from ordinary people when it comes to nonstrategic forms of uncertainty, such as risk and ambiguity.]]</summary>
+    <title>Entrepreneurs Under Uncertainty: An Economic Experiment in China</title>
+    <updated>2013-04-21T14:48:25-05:00</updated>
+    <dc:date>2013-04-21T14:48:25-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We consider projects with uncertain activity times and the possibility of expediting, or crashing, them. Activity times come from a partially specified distribution within a family of distributions. This family is described by one or more of the following details about the uncertainties: support, mean, and covariance. We allow correlation between past and future activity time performance across activities. Our objective considers total completion time penalty plus crashing and overhead costs. We develop a robust optimization model that uses a conditional value-at-risk satisficing measure. We develop linear and piecewise-linear decision rules for activity start time and crashing decisions. These rules are designed to perform robustly against all possible scenarios of activity time uncertainty, when implemented in either static or rolling horizon mode. We compare our procedures against the previously available Program Evaluation and Review Technique and Monte Carlo simulation procedures.]]</summary>
+    <title>Total Cost Control in Project Management via Satisficing</title>
+    <updated>2013-04-21T14:48:24-05:00</updated>
+    <dc:date>2013-04-21T14:48:24-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We study the cross-sectional breadth–return relation by assuming that investors subject to market sentiment hold a biased belief in the aggregate. With a dynamic multiasset model, we predict that the breadth–return relationship can be either positive or negative depending on the relative strength of two offsetting forces—disagreement and sentiment. We find evidence consistent with our predictions. The breadth–return relationship is positive when the sentiment effect is small. However, the relationship becomes negative when (i) the time-series variation of market-wide sentiment is high and (ii) the cross-sectional dispersion of firm-specific exposure to market-wide sentiment variation is large. Our unified framework reconciles a few seemingly inconsistent empirical studies in this literature and explains puzzling cross-sectional return patterns observed during the Internet bubble and the subprime crisis periods.]]</summary>
+    <title>Investor Sentiment, Disagreement, and the Breadth–Return Relationship</title>
+    <updated>2013-04-21T14:48:24-05:00</updated>
+    <dc:date>2013-04-21T14:48:24-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Technology licensing is an important means for companies to extract more value from their intellectual assets. We build a model that helps understand how licensing activity should be organized within large corporations. More specifically, we compare decentralization—where the business unit using the technology makes licensing decisions—to centralized licensing. The business unit has superior information about licensing opportunities but may not have the appropriate incentives because its rewards depend on product market performance. If licensing is decentralized, the business unit forgoes valuable licensing opportunities because the rewards for licensing are (optimally) weaker than those for product market profits. This distortion is stronger when production-based incentives, especially private benefits, of business unit managers are more powerful, making centralization more attractive. Surprisingly, we find that interdependency across business units may result in more, not less, decen]]</summary>
+    <title>Managing Licensing in a Market for Technology</title>
+    <updated>2013-04-21T14:48:23-05:00</updated>
+    <dc:date>2013-04-21T14:48:23-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Analysts deviate from management guidance to correct for perceived earnings management. Although the deviations reduce forecast accuracy, they improve forecast informativeness, bringing the forecasts closer to the unmanaged earnings and reducing accruals mispricing. An implicit assumption in the literature is that more accurate analyst forecasts (i.e., estimates that are closer to the reported earnings) are better for investors, and that analysts' objective is to forecast the reported (managed) earnings accurately. Our analysis suggests that this is not necessarily the case and that an inaccurate forecast can actually be more informative than an accurate one. Prior studies on analysts' deviations from management guidance focus on analysts' incentives to issue estimates that managers can beat. These studies implicitly assume that analysts side with management against the interests of their clients. Our analysis indicates that analysts could also deviate from management guidance to provi]]</summary>
+    <title>Do Analysts Sacrifice Forecast Accuracy for Informativeness?</title>
+    <updated>2013-04-21T14:48:23-05:00</updated>
+    <dc:date>2013-04-21T14:48:23-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We study a buyer's sourcing strategy along two dimensions: the supply base design and the pricing mechanism, considering supplier competition and cost-reduction effort. The supply base design concerns the number of suppliers (one or two) included in the supply base and the capacity to be invested in each supplier. The pricing mechanism determines the timing of the price decisions, with the buyer making price commitments before suppliers exert cost-reduction efforts that may be renegotiated afterward. We find that symmetric capacity investment in suppliers and low price commitments (more likely to be renegotiated) are effective at fostering supplier competition, whereas asymmetric investment and high price commitments (less likely to be renegotiated) are better at motivating supplier effort. A complementary relationship exists between the supply base design and pricing mechanism: A more symmetric supply base should be combined with lower price commitments, leading to more renegotiation ]]</summary>
+    <title>Sourcing for Supplier Effort and Competition: Design of the Supply Base and Pricing Mechanism</title>
+    <updated>2013-04-21T14:48:22-05:00</updated>
+    <dc:date>2013-04-21T14:48:22-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Systemic risk refers to the risk of collapse of an entire complex system as a result of the actions taken by the individual component entities or agents that comprise the system. Systemic risk is an issue of great concern in modern financial markets as well as, more broadly, in the management of complex business and engineering systems. We propose an axiomatic framework for the measurement and management of systemic risk based on the simultaneous analysis of outcomes across agents in the system and over scenarios of nature. Our framework defines a broad class of systemic risk measures that accomodate a rich set of regulatory preferences. This general class of systemic risk measures captures many specific measures of systemic risk that have recently been proposed as special cases and highlights their implicit assumptions. Moreover, the systemic risk measures that satisfy our conditions yield decentralized decompositions; i.e., the systemic risk can be decomposed into risk due to individ]]</summary>
+    <title>An Axiomatic Approach to Systemic Risk</title>
+    <updated>2013-04-21T14:48:21-05:00</updated>
+    <dc:date>2013-04-21T14:48:21-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Consider two buyers facing uncertain demands who need to purchase a common critical component from a powerful sole-source supplier. If the two buyers pool their demands and purchase from the supplier as a single entity, will they necessarily earn higher profits than purchasing separately? We show that when a powerful supplier extracts profits from the buyers through optimal contract design, the demand variability reduction achieved by pooling can harm the buyers because it makes extracting profits easier for the supplier. We characterize cases when pooling is disadvantageous and also provide insights into when it is still advantageous. Our result is in contrast to the case where the price of the component is exogenous (typically assumed in most of the pooling literature), in which case pooling demands is always beneficial for the buyers.]]</summary>
+    <title>Does Pooling Purchases Lead to Higher Profits?</title>
+    <updated>2013-04-21T14:48:21-05:00</updated>
+    <dc:date>2013-04-21T14:48:21-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We consider a repeated newsvendor problem in which the decision maker (DM) does not have access to the underlying demand distribution. The goal of this paper is to characterize the implications of demand censoring on performance. To that end, we compare the benchmark setting in which the DM has access to demand observations to a setting in which the DM may only rely on sales data. We measure performance in terms of regret: the difference between the cumulative costs of a policy and the optimal cumulative costs with knowledge of the demand distribution. Through upper and lower bounds, we characterize the optimal magnitude of the worst-case regret for the two settings, enabling one to isolate the implications of demand censoring. In particular, the results imply that the exploration–exploitation trade-off introduced by demand censoring is fundamentally different in the continuous and discrete demand cases, and that active exploration plays a much stronger role in the latter case. We furt]]</summary>
+    <title>On Implications of Demand Censoring in the Newsvendor Problem</title>
+    <updated>2013-04-21T14:48:20-05:00</updated>
+    <dc:date>2013-04-21T14:48:20-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We develop a tractable equilibrium model of competing firms in an industry to show how the distribution of firm qualities, moral hazard, and product market characteristics interact to affect firm size, managerial compensation, and market structure. Different determinants of product market competition have contrasting effects on firm size and managerial compensation. Although both firm size and managerial compensation increase with the entry cost, they increase with the elasticity of substitution if and only if firm size exceeds a high threshold but decrease if it is below a low threshold. Aggregate shocks to the firm productivity distribution affect incentives in our equilibrium framework. We show statistically and economically significant empirical support for several hypotheses derived from the theory that relates product market characteristics to managerial compensation, firm size, and the number of firms in the industry. Different determinants of competition indeed have contrasting]]</summary>
+    <title>Product Market Competition, Managerial Compensation, and Firm Size in Market Equilibrium</title>
+    <updated>2013-04-21T14:48:19-05:00</updated>
+    <dc:date>2013-04-21T14:48:19-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Influenza vaccination decisions in one country can influence the size of an outbreak in other countries due to interdependent risks from infectious disease transmission. This paper examines the inefficiency in the allocation of influenza vaccines that is due to interdependent risk of infection across borders and proposes a contractual mechanism to reduce such inefficiencies. The proposed contract is based on an epidemic model that accounts for intranational transmission and that from a source country where the dominant strain emerges. The contract reduces the overall financial burden of infection globally and improves the total number infected by seasonal influenza outbreaks. This is consistent with recent recommendations to improve pandemic preparedness. Numerical experiments demonstrate that the benefits of the contract can prevent millions of influenza cases and save tens of millions of dollars, and that the benefits are even greater when cross-border transmission is higher, even if]]</summary>
+    <title>A Game-Theoretic Model of International Influenza Vaccination Coordination</title>
+    <updated>2013-04-21T14:48:19-05:00</updated>
+    <dc:date>2013-04-21T14:48:19-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper formally analyzes the biases related to self-reporting in hedge fund databases by matching the quarterly equity holdings of a complete list of 13F-filing hedge fund companies to the union of five major commercial databases of self-reporting hedge funds between 1980 and 2008. We find that funds initiate self-reporting after positive abnormal returns that do not persist into the reporting period. Termination of self-reporting is followed by both return deterioration and outflows from the funds. The propensity to self-report is consistent with the trade-offs between the benefits (e.g., access to prospective investors) and costs (e.g., partial loss of trading secrecy and flexibility in selective marketing). Finally, returns of self-reporting funds are higher than that of nonreporting funds using characteristic-based benchmarks. However, the difference is not significant using alternative choices of performance measures.]]</summary>
+    <title>Inferring Reporting-Related Biases in Hedge Fund Databases from Hedge Fund Equity Holdings</title>
+    <updated>2013-04-21T14:48:18-05:00</updated>
+    <dc:date>2013-04-21T14:48:18-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[In this paper, we examine trade promotion decisions in manufacturer–retailer channels where retailers face consumer demand uncertainty. We first present the theoretical analysis for two types of markets where trade promotion discounts are offered either as off-invoices or as scan-backs. We derive propositions by comparing wholesale and retail prices, retailer order quantities, and profits given the same trade promotion discount. Next, we extend the basic model so that the amount of trade promotion discount influences market expansion and solve for the optimal discount level. To test our theory, we then employ market experiments where we manipulate demand uncertainty and market expansion. Consistent with our theoretical predictions, we find that wholesale and retail prices are higher and retailer order quantities lower when the same amount of trade promotion discount is allocated to scan-backs versus off-invoices. In the market expansion condition, we find that manufacturers offer deepe]]</summary>
+    <title>Trade Promotion Decisions Under Demand Uncertainty: A Market Experiment Approach</title>
+    <updated>2013-04-21T14:48:17-05:00</updated>
+    <dc:date>2013-04-21T14:48:17-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We exploit changes in wind speeds at surfing locations in Switzerland as a source of variation in users' propensity to post content about their surfing activity on an online social network. We exploit this variation to test whether users' online content-generation activity is codetermined with their social ties. Economically significant effects of this type can produce positive feedback that generates local network effects in content generation. When quantitatively significant, the increased content and tie density arising from the network effect induces more visitation and browsing on the site, which fuels growth by generating advertising revenue. We find evidence consistent with such network effects.]]</summary>
+    <title>Social Ties and User-Generated Content: Evidence from an Online Social Network</title>
+    <updated>2013-04-21T14:48:17-05:00</updated>
+    <dc:date>2013-04-21T14:48:17-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We investigate the effect of financial development on the formation of European corporate groups. Because cross-country regressions are hard to interpret in a causal sense, we exploit exogenous industry measures to investigate a specific channel through which financial development may affect group affiliation: internal capital markets. Using a comprehensive firm-level data set on European corporate groups in 15 countries, we find that countries with less developed financial markets have a higher percentage of group affiliates in more capital-intensive industries. This relationship is more pronounced for young and small firms and for affiliates of large and diversified groups. Our findings are consistent with the view that internal capital markets may, under some conditions, be more efficient than prevailing external markets, and that this may drive group affiliation even in developed economies.]]</summary>
+    <title>Capital Markets and Firm Organization: How Financial Development Shapes European Corporate Groups</title>
+    <updated>2013-04-21T14:48:16-05:00</updated>
+    <dc:date>2013-04-21T14:48:16-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We analyze a rational expectations equilibrium model to explore the implications of information networks for the financial market. When information is exogenous, social communication improves market efficiency. However, social communication crowds out information production due to traders' incentives to “free ride” on informed friends and on a more informative price system. Overall, social communication hurts market efficiency when information is endogenous. The network effects on the cost of capital, liquidity, trading volume, and welfare are also sensitive to whether information is endogenous. Our analysis highlights the importance of information acquisition in examining the implications of information networks for financial markets.]]</summary>
+    <title>Social Networks, Information Acquisition, and Asset Prices</title>
+    <updated>2013-04-21T14:48:15-05:00</updated>
+    <dc:date>2013-04-21T14:48:15-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper develops analytical results and insights for the mixed bundling problem of pricing a product line consisting of two component goods (with valuations distributed uniformly and independently in [0, a1] and [0, a2], respectively, with a1 ≤ a2) and a bundle of the two goods. This setting has previously been considered analytically intractable. By deriving component good prices as exact algebraic functions of the optimal bundle price, I reduce the multiproduct pricing problem to a univariate nonlinear optimization problem in the bundle price. When the two component goods are sufficiently asymmetric in valuations, the optimal solution is partial mixed bundling (one component good is not sold separately), for which I derive exact conditions and optimal prices. An exact analytical solution is also given for mixed bundling of two information goods (component goods with zero marginal costs). For the general case, I derive a closed-form approximation of the optimal bundle price: pB = 0]]</summary>
+    <title>Mixed Bundling of Two Independently Valued Goods</title>
+    <updated>2013-04-21T14:48:15-05:00</updated>
+    <dc:date>2013-04-21T14:48:15-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We examine how different characteristics of product demand and market impact the relative sales volume in the forward and spot markets for a commodity whose aggregate demand is uncertain. In a setting where either the forward contracts are binding quantity commitments between buyers and suppliers or the forward production takes place before the uncertainty in demand is resolved, we find that a combination of factors that include market concentration, demand risk, and price elasticity of demand will determine whether a commodity will be sold mainly through forward contracts or in the spot market. Previous findings in the literature show that when participants are risk neutral, the ratio of forward sales to spot sales is a function of market concentration alone; also, the lower the concentration, the higher this ratio. These findings hold under the assumption that demand is either deterministic or, if demand is uncertain, all production takes place after uncertainty is fully resolved and]]</summary>
+    <title>Demand Uncertainty and Excess Supply in Commodity Contracting</title>
+    <updated>2013-04-21T14:48:14-05:00</updated>
+    <dc:date>2013-04-21T14:48:14-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Advertising competes for scarce consumer attention, so more profitable advertisers send more messages to break through the others' clutter. Multiple equilibria can arise: more messages in aggregate induce more “shouting to be heard,” dissipating profit. Equilibria can involve a small range of loud shouters or large range of quiet whisperers. All advertisers prefer there to be less shouting. There is the largest diversity in message levels for a middling width of advertiser types: both very wide and very narrow widths have only one message per advertiser. The number of advertisers at each message level decreases with the level if the profit distribution is log-convex. Increasing the cost of sending messages can make all advertisers better off. A new technique is given for describing multiple equilibria, by determining how much examination is consistent with a given marginal advertiser.]]</summary>
+    <title>Shouting to Be Heard in Advertising</title>
+    <updated>2013-04-21T14:48:14-05:00</updated>
+    <dc:date>2013-04-21T14:48:14-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[One of the main assumptions in research on designing supply contracts is that decision makers act in a way that maximizes their expected profit. A number of laboratory experiments demonstrate that this assumption does not hold. Specifically, faced with uncertain demand, decision makers place orders that systematically deviate from the expected profit maximizing levels. We have added to this body of knowledge by demonstrating that ordering decisions also systematically depend on individual contract parameters and by developing a behavioral model that captures this systematic behavior. We proceed to test our behavioral model using laboratory experiments and use the data to derive empirical model parameters. We then test our approach in out-of-sample validation experiments that confirm that, indeed, contracts designed using the behavioral model perform better than contracts designed using the standard model.]]</summary>
+    <title>Designing Buyback Contracts for Irrational But Predictable Newsvendors</title>
+    <updated>2013-04-21T14:48:13-05:00</updated>
+    <dc:date>2013-04-21T14:48:13-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We examine technological systems that display the following characteristics: (i) unplanned outages incur significant costs, (ii) the system experiences an outage if one or more of its subsystems fails, (iii) subsystem failures may occur simultaneously, and (iv) subsystem recovery requires specific resources and capabilities that are provided by different firms. Firms may invest in two measures to enhance system availability—namely, failure prevention and recovery capacity. If recovery capacity investment is the only option, we find that the firms in a decentralized setting overinvest in capacity, resulting in higher system availability but at a higher cost. If both investments can be made, we find that the firms underinvest in failure prevention and overinvest in recovery capacity. That is, firms in a decentralized setting shift their focus from preventing failures to responding to failures. The net effect is lower system availability, reversing the conclusion above. We also find that,]]</summary>
+    <title>Guilt by Association: Strategic Failure Prevention and Recovery Capacity Investments</title>
+    <updated>2013-04-21T14:48:13-05:00</updated>
+    <dc:date>2013-04-21T14:48:13-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Prior research on equity analysts focuses almost exclusively on those employed by sell-side investment banks and brokerage houses. Yet investment firms undertake their own buy-side research, and their analysts face different stock selection and recommendation incentives than their sell-side peers. We examine the selection and performance of stocks recommended by analysts at a large investment firm relative to those of sell-side analysts from mid-1997 to 2004. We find that the buy-side firm's analysts issue less optimistic recommendations for stocks with larger market capitalizations and lower return volatility than their sell-side peers, consistent with their facing fewer conflicts of interest and having a preference for liquid stocks. Tests with no controls for these effects indicate that annualized buy-side strong buy/buy recommendations underperform those for sell-side peers by 5.9% using market-adjusted returns and by 3.8% using four-factor model abnormal returns. However, these fi]]</summary>
+    <title>The Stock Selection and Performance of Buy-Side Analysts</title>
+    <updated>2013-04-21T14:48:12-05:00</updated>
+    <dc:date>2013-04-21T14:48:12-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Competition among firms yields many benefits but can also encourage firms to engage in corrupt or unethical activities. We argue that competition can lead organizations to provide services that customers demand but that violate government regulations, especially when price competition is restricted. Using 28 million vehicle emissions tests from more than 11,000 facilities, we show that increased competition is associated with greater inspection leniency, a service quality attribute that customers value but is illegal and socially costly. Firms with more competitors pass customer vehicles at higher rates and are more likely to lose customers whom they fail, suggesting that competition intensifies pressure on facilities to provide illegal leniency. We also show that, at least in markets in which pricing is restricted, firms use corrupt and unethical practices as an entry strategy.]]</summary>
+    <title>Customer-Driven Misconduct: How Competition Corrupts Business Practices</title>
+    <updated>2013-04-21T14:48:11-05:00</updated>
+    <dc:date>2013-04-21T14:48:11-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper studies the impact that ethnic innovators have on the global activities of U.S. firms by analyzing detailed data on patent applications and on the operations of the foreign affiliates of U.S. multinational firms. The results indicate that increases in the share of a firm's innovation performed by inventors of a particular ethnicity are associated with increases in the share of that firm's affiliate activity in countries related to that ethnicity. Ethnic innovators also appear to facilitate the disintegration of innovative activity across borders and to allow U.S. multinationals to form new affiliates abroad without the support of local joint venture partners.]]</summary>
+    <title>Ethnic Innovation and U.S. Multinational Firm Activity</title>
+    <updated>2013-04-21T14:48:11-05:00</updated>
+    <dc:date>2013-04-21T14:48:11-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[Previous research in economics shows that compensation based on the pay-for-performance principle is effective in inducing higher levels of effort and productivity. On the other hand, research in psychology argues that performance-based financial incentives inhibit creativity and innovation. How should managerial compensation be structured if the goal is to induce managers to pursue more innovative business strategies? In a controlled laboratory setting, we provide evidence that the combination of tolerance for early failure and reward for long-term success is effective in motivating innovation. Subjects under such an incentive scheme explore more and are more likely to discover a novel business strategy than subjects under fixed-wage and standard pay-for-performance incentive schemes. We also find evidence that the threat of termination can undermine incentives for innovation, whereas golden parachutes can alleviate these innovation-reducing effects.]]</summary>
+    <title>Is Pay for Performance Detrimental to Innovation?</title>
+    <updated>2013-04-21T14:48:10-05:00</updated>
+    <dc:date>2013-04-21T14:48:10-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper reports on a field experiment conducted to estimate the impact of the share of women in business teams on their performance. Teams consisting of undergraduate students in business studies start up a venture as part of their curriculum. We manipulated the gender composition of teams and assigned students randomly to teams, conditional on their gender. We find that teams with an equal gender mix perform better than male-dominated teams in terms of sales and profits. We explore various mechanisms suggested in the literature to explain this positive effect of gender diversity on performance (including complementarities, learning, monitoring, and conflicts) but find no support for them.]]</summary>
+    <title>The Impact of Gender Diversity on the Performance of Business Teams: Evidence from a Field Experimen</title>
+    <updated>2013-04-21T14:48:10-05:00</updated>
+    <dc:date>2013-04-21T14:48:10-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[In the United States, end-stage liver disease patients join a waiting list and then make accept/reject decisions for transplantation as deceased-donor organs are offered to them over time. These decisions are largely influenced by the patient's prospect for future offers, which can be ascertained most accurately by knowing the entire composition of the waiting list. Under the current transplantation system, however, the United Network for Organ Sharing (UNOS), in an effort to strike a balance between privacy and transparency, only publishes an aggregated version of the waiting list. However, it is not clear whether the published information is good enough (compared with perfect information) to help patients make optimal decisions that maximize their individual life expectancies. We provide a novel model of this accept/reject problem from an individual patient's perspective using a partially observed Markov decision process (POMDP) framework, which incorporates the imperfect waiting lis]]</summary>
+    <title>Alleviating the Patient's Price of Privacy Through a Partially Observable Waiting List</title>
+    <updated>2013-04-21T14:48:09-05:00</updated>
+    <dc:date>2013-04-21T14:48:09-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We analyze a new auction format in which bidders pay a fee each time they increase the auction price. Bidding fees are the primary source of revenue for the seller but produce the same expected revenue as standard auctions (assuming risk-neutral bidders). If risk-loving preferences are incorporated in the model, expected revenue increases. Our model predicts a particular distribution of ending prices, which we test against observed auction data. The degree of fit depends on how unobserved parameters are chosen; in particular, a slight preference for risk has the biggest impact in explaining auction behavior, suggesting that pay-to-bid auctions are a mild form of gambling.]]</summary>
+    <title>The Role of Risk Preferences in Pay-to-Bid Auctions</title>
+    <updated>2013-04-21T14:48:09-05:00</updated>
+    <dc:date>2013-04-21T14:48:09-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We find that firms with insider sales executed under Rule 10b5-1 plans exhibit a higher likelihood of meeting or beating analysts' earnings expectations (MBE). This relation between MBE and plan sales is more pronounced for the plan sales of chief executive officers (CEOs) and chief financial officers (CFOs) and is nonexistent for other key insiders. The market reactions to firms that successfully meet or beat expectations are relatively positive compared with their peers that fail to do so. One interpretation of our results is that CEOs and CFOs who sell under these plans may be more likely to engage in strategic behavior to meet or beat expectations in an effort to maximize their proceeds from plan sales. However, readers should exercise caution in making inferences, because the potential presence of limit order transactions makes it difficult to unambiguously determine the direction of causality of the relation we document.]]</summary>
+    <title>Insiders' Sales Under Rule 10b5-1 Plans and Meeting or Beating Earnings Expectations</title>
+    <updated>2013-04-21T14:48:08-05:00</updated>
+    <dc:date>2013-04-21T14:48:08-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[We consider a theoretical setting in which firms carry multiple products and consumers incur evaluation costs not only across firms but also within firms. Consumers judiciously decide the number of firms to include in their consideration sets as well as how many products from those firms. This decision depends on the relative trade-offs of evaluating an additional product and whether it is from a firm already included in the consideration set or from an entirely new firm. The composition of consumers' consideration set affects how firms compete in prices and in the number of products to offer. Contrary to previous literature, we find that firm differentiation can reduce firms' product lines and within-firm evaluation costs have either a positive or a negative effect on firms' prices. Interestingly, we show that within-firm evaluation costs and across-firm evaluation costs are different constructs. The number of products firms offer in equilibrium can exceed the socially optimal level i]]</summary>
+    <title>Consideration Set Formation with Multiproduct Firms: The Case of Within-Firm and Across-Firm Evaluat</title>
+    <updated>2013-04-21T14:48:07-05:00</updated>
+    <dc:date>2013-04-21T14:48:07-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>http://mansci.journal.informs.org/content/early/recent</id>
+    <link href="http://mansci.journal.informs.org/content/early/recent"/>
+    <summary>&lt;![CDATA[This paper establishes dividend volatility as a fundamental risk metric that prices assets. We theoretically incorporate dividend volatility clustering into a model in which narrow-framing investors are loss averse over fluctuations in the value of their investments. Our model shows that dividend volatility positively predicts future asset returns, with the predictive power increasing with the forecasting horizon; our model also sheds light on a variety of other asset-pricing phenomena. We further provide supporting empirical evidence that dividend volatility is indeed priced in the data. More specifically, aggregate dividend volatility predicts and is predicted by aggregate price-to-dividend ratios; aggregate dividend volatility predicts future aggregate market returns; and dividend volatility of portfolios sorted by size, book-to-market ratios, and past returns predicts future portfolio-level returns, respectively.]]</summary>
+    <title>Asset-Pricing Implications of Dividend Volatility</title>
+    <updated>2013-04-21T14:48:06-05:00</updated>
+    <dc:date>2013-04-21T14:48:06-05:00</dc:date>
+  </entry>
+  <dc:date>2013-04-21T16:03:35-05:00</dc:date>
+</feed>
