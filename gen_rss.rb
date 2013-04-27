@@ -28,7 +28,7 @@ rss = RSS::Maker.make("atom") do |maker|
     maker.items.new_item do |item|
       item.link = (journals.where(:code => p[:code]).select(:url).first)[:url]
       item.title = p[:title]
-      item.description = (abstracts.where(:idx => p[:idx]).select(:abstract).first)[:abstract]
+      item.description = (journals.where(:code => p[:code]).select(:name).first)[:name] + "\n" + (abstracts.where(:idx => p[:idx]).select(:abstract).first)[:abstract]
       item.updated = p[:insert_time].to_s
     end
   end
