@@ -30,33 +30,37 @@ class Journal
       # get article info
       title = ""
       p.xpath('div[@class="cit-metadata"]/span[@class="cit-title"]').each do |t|
-        title = t.text.strip
+	title = t.text.strip
       end
       doi = ""
       p.xpath('div[@class="cit-metadata"]/cite/span[@class="cit-doi"]').each do |cdoi|
-        doi = cdoi.text.sub(/^doi: */, '')
+	doi = cdoi.text.sub(/^doi: */, '')
       end
+      idx = articles.max(:idx)
       articles.insert_ignore.insert(:code => @code, :doi => doi, :title => title)
+      if idx == articles.max(:idx)
+	next
+      end
       idx = articles.max(:idx)
       # get abstract
       abs_url = ""
       p.xpath('div[@class="cit-extra"]/ul/li[@class="first-item"]/a').each do |a|
-        abs_url = a["href"]
+	abs_url = a["href"]
       end
       abs_url = @url.sub(/([^\/]\/)[^\/].*/, '\1') + abs_url
       abs_doc = Nokogiri::HTML(open(abs_url))
       abs = ""
       abs_doc.search('p[@id="p-1"]').each do |ap|
-        abs = ap.text
-        abs.gsub!(/\s*\n\s*/, ' ')
-        abs.strip!
-        break
+	abs = ap.text
+	abs.gsub!(/\s*\n\s*/, ' ')
+	abs.strip!
+	break
       end
       abstracts.insert_ignore.insert(:idx => idx, :abstract => abs)
       # get authors
       p.xpath('div[@class="cit-metadata"]/ul/li/span[@class="cit-auth cit-auth-type-author"]').each do |auth|
-        auth = auth.text
-        authors.insert_ignore.insert(:idx => idx, :author => auth)
+	auth = auth.text
+	authors.insert_ignore.insert(:idx => idx, :author => auth)
       end
     end
   end
@@ -67,15 +71,15 @@ class Journal
     right_sec = false
     open(@url) do |wp|
       wp.each do |l|
-        if right_sec
-          if l =~ /hr-red\.gif/
-            right_sec = false
-          else
-            txt += l
-          end
-        elsif l =~ /<h3>.*Research Articles/
-          right_sec = true
-        end
+	if right_sec
+	  if l =~ /hr-red\.gif/
+	    right_sec = false
+	  else
+	    txt += l
+	  end
+	elsif l =~ /<h3>.*Research Articles/
+	  right_sec = true
+	end
       end
     end
     # parse papers
@@ -87,19 +91,23 @@ class Journal
       abs = ""
       pdfreader = PDF::Reader.new(open(abs_url))
       pdfreader.pages.each do |page|
-        abs = page.text
-        abs = (abs.split(/Abstract\s*\n/))[1]
-        abs = (abs.split(/\n\s*Keywords/))[0]
-        abs.gsub!(/\n/,' ')
-        abs.gsub!(/ +/, ' ')
-        break
+	abs = page.text
+	abs = (abs.split(/Abstract\s*\n/))[1]
+	abs = (abs.split(/\n\s*Keywords/))[0]
+	abs.gsub!(/\n/,' ')
+	abs.gsub!(/ +/, ' ')
+	break
       end
       # insert
+      idx = articles.max(:idx)
       articles.insert_ignore.insert(:code => @code, :title => title)
+      if idx == articles.max(:idx)
+	next
+      end
       idx = articles.max(:idx)
       abstracts.insert_ignore.insert(:idx => idx, :abstract => abs)
       auths.each do |auth|
-        authors.insert_ignore.insert(:idx => idx, :author => auth)
+	authors.insert_ignore.insert(:idx => idx, :author => auth)
       end
     end
   end
